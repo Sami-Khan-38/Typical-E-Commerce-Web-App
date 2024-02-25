@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e-commerce-ui",
+    "\\e-commerce-ui\\src",
+    "\\e-commerce-ui\\src\\app",
+    "\\e-commerce-ui\\src\\app\\admin",
+    "\\e-commerce\\src\\main",
+    "\\e-commerce\\src\\main\\java",
+    "\\e-commerce\\src\\main\\java\\com",
+    "\\e-commerce\\src\\main\\java\\com\\youtube",
+    "\\e-commerce\\src\\main\\java\\com\\youtube\\ecommerce",
+    "\\e-commerce\\src\\main\\java\\com\\youtube\\ecommerce\\entity"
+  ],
+  "SelectedNode": "\\e-commerce-ui\\src\\app\\admin\\admin.component.html",
+  "PreviewInSolutionExplorer": false
+}
